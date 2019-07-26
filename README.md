@@ -1,3 +1,8 @@
+개발한 noteAuthorizeServer및 noteServer를 테스트 하기위해
+
+Vue.js를 사용 하여 간단히 만든 클라이언트 입니다
+
+
 ![1](./image/1.PNG)
 
 첫 화면 입니다 
